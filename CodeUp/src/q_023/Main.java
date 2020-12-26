@@ -1,4 +1,4 @@
-package q_23;
+package q_023;
 
 import java.util.Scanner;
 
